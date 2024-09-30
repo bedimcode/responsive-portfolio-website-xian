@@ -1,0 +1,165 @@
+========== NAV ==========
+.nav__link - title
+Home - Projects - Services - Experience - Contact
+
+
+========== PERFIL ==========
+.perfil__name
+Xian <br> Gallers
+
+.button
+Projects
+Services
+
+
+========== INFO ==========
+.info__name
+Xian Gallers
+
+.info__description
+Passionate about creating and designing 
+websites with the best engaging interfaces.
+
+.button
+Download CV
+
+
+========== ABOUT  ==========
+.about__name
+Xian Gallers - <b>Web Designer & Developer</b>
+
+.about__description
+Located in Peru, I have several years of 
+experience in web development and design, 
+carrying out several successful projects.
+
+.about__link
+https://www.linkedin.com/
+https://github.com/
+https://www.behance.net/
+
+.about__note
+He doesn't write messages on social networks, 
+send me an email and I'll answer you.
+
+.button
+Contact Me
+
+========== SKILLS ==========
+.skills__title
+Skills
+
+.skills__description
+Visit the projects section to see the 
+work done with these web technologies.
+
+
+========== PROJECTS ==========
+.section__title
+RECENT PROJECTS
+
+.projects__name
+Coffee Website
+Food Product Design
+Restaurant Landing Page
+Barbershop Website
+Construction Landing Page
+
+.projects__description
+Short description of the project that 
+was carried out in this portfolio.
+
+.projects__button span
+Visit Project
+
+
+========== SERVICES ==========
+.section__title
+SERVICES I OFFER
+
+.services__name
+Web Development
+Web Design
+Seo (Web Pages)
+
+.services__description
+Short description of the service offered 
+to users to obtain a personalized project.
+
+
+========== EXPERIENCE ==========
+.section__title
+EXPERIENCE OR WORK
+
+.experience__company .experience__profession .experience__date
+Adobe
+Website Development
+08/24 - Present
+
+Google
+Web Product Designer
+02/22 - 01/23
+
+Figma
+Web Designer
+05/23 - 11/23
+
+.experience__description
+Short description of the work 
+you do or did in the company.
+
+
+========== CONTACT ==========
+.section__title
+CONTACT ME
+
+.contact__input - placeholder
+Names
+Email
+Message
+
+.contact__button
+Send Message
+
+
+========== CONTACT JS ==========
+// serviceID - templateID - #form - publicKey
+
+   // Show sent message
+      Message sent successfully ✅
+
+   // Remove message after five seconds
+
+   // Clear input fields
+
+   // Show error message
+      Message not sent (service error) ❌
+
+Subject *
+New message from {{user_name}}
+
+Content *
+Names: {{user_name}}
+
+Email: {{user_email}}
+
+Message: {{user_message}}
+
+Best wishes,
+EmailJS team
+
+
+========== FOOTER ==========
+.footer__logo
+Xian
+
+.footer__links
+Home - Projects - Services
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
